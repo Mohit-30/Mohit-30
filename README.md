@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohit-30
 - 👀 I’m interested in coding and open source contribution
 - 🌱 I’m currently learning competitive coding
-- 💞️ I’m looking to collaborate on softwae related projects
+- 💞️ I’m looking to collaborate on software related projects
 - 📫 How to reach me //periwalmohit1@gmail.com
 
 <!---
